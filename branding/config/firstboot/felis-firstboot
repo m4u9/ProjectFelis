@@ -14,7 +14,7 @@ backup_dir=$HOME/.config/autostart/backup
 
     for i in XXX "Adding Flathub Repository" XXX 20;
     do echo $i; done
-    /usr/bin/flatpak remote-add --user --if-not-exists flathub /usr/share/greybeard-desktop/flathub.flatpakrepo &>/dev/null
+    /usr/bin/flatpak remote-add --user --if-not-exists flathub /usr/share/felis-desktop/flathub.flatpakrepo &>/dev/null
 	if [ "$?" != 0 ] ; then
         	dialog --msgbox "Adding Flathub Repo Failed" 10 60
         	exit 1
