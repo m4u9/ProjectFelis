@@ -1,4 +1,4 @@
-favorites=thunar.desktop,firefox.desktop,chromium-browser.desktop,thunderbird.desktop,claws-mail.desktop,mousepad.desktop,org.opensuse.YaST.desktop,org.opensuse.yast.Packager.desktop,xfce4-terminal-emulator.desktop
+favorites=thunar.desktop,org.mozilla.firefox.desktop,org.xfce.mousepad.desktop,org.xfce.Catfish.desktop,org.gnome.Software.desktop,xfce4-terminal-emulator.desktop
 button-icon=org.xfce.panel.whiskermenu
 button-title=\ Menu\ 
 button-single-row=false
