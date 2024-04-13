@@ -67,7 +67,7 @@
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-14" type="string" value="showdesktop"/>
-    <property name="plugin-15" type="string" value="thunar-tpa/">
+    <property name="plugin-15" type="string" value="thunar-tpa"/>
     </property>
   </property>
 </channel>
